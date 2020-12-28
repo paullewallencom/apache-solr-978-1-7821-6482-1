@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<add>
+<doc>
+<field name="id">1</field>
+<field name="usrName">userA</field>
+<field name="record">userA record</field>
+</doc>
+</add>
